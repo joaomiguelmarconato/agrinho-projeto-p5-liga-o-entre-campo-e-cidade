@@ -1,0 +1,1 @@
+Este projeto foi feito usando os códigos do DeepSeek, ouve algumas modificações para melhor entendimento. Lembrando que foi feita uma remodelação de alguns itens, mas os códigos são do DeepSeek, então devo-lhe dar os créditos.
